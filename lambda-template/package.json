@@ -1,0 +1,16 @@
+{
+    "name": "create-lambda-template",
+    "bin": "./index.js",
+    "version": "1.0.0",
+    "description": "A command to auto generate a lambda template",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "NearSt",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "js-yaml": "4.1.0"
+    }
+}
